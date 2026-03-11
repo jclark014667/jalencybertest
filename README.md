@@ -8,7 +8,7 @@
   - [Active Directory Home Lab]()
 - <b>Networking Practice</b>
   - [Telnet & POP3 Protocol]() 
-    - [FTP Protocol Lab (Downloading Files From Target Machines]()
+    - [FTP Protocol Lab (Downloading Files From Target Machines)]()
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
   - [JWipe (Disk Wiping Utility)]()
