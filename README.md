@@ -5,26 +5,26 @@
 - <b>Virtualization Practice</b>
  - [Home Lab Creation]()
 - <b>Actice Directory Practice</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab]()
 - <b>Networking Practice</b>
-  - [Telnet & POP3 Protocol](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-    - [FTP Protocol Lab (Downloading Files From Target Machines](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Telnet & POP3 Protocol]() 
+    - [FTP Protocol Lab (Downloading Files From Target Machines]()
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
+  - [JWipe (Disk Wiping Utility)]()
+  - [Active Directory Bulk User Creation]()
+  - [FIM (File Integrity Monitor)]()
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Ransomware Proof of Concept (Encrypter)]()
+  - [Ransomware Proof of Concept (Decrypter)]()
+  - [Keylogger with Email Capability]()
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)]()
 
 <h2>📜Certifications</h2>
 
-- [Google Google Cybersecurity Professional Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Google Cybersecurity Professional Certificate]()
+- [CompTIA Security+]()
 
 <h2> 🤳 Connect with me:</h2>
 
