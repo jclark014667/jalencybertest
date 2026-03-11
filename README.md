@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Virtualization Practice</b>
- - [Home Lab Creation](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Home Lab Creation]()
 - <b>Actice Directory Practice</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Networking Practice</b>
